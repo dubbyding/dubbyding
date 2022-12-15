@@ -16,9 +16,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning React JS <img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-- 💬 Ask me about JavaScript, Python, Machine Learning
+- 🔭 I’m currently working in Webpoint Solutions
+- 🌱 I’m currently working with Next Js and Laravel
+- 💬 Ask me about JavaScript, Python, PHP Machine Learning
 
 <h2> Skills </h2>
 <a href= https://github.com/dubbyding?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
