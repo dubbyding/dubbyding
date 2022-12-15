@@ -16,7 +16,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working in Webpoint Solutions
+- 💻 I’m currently working in Webpoint Solutions
 - 🌱 I’m currently working with Next Js and Laravel
 - 💬 Ask me about JavaScript, Python, PHP Machine Learning
 
